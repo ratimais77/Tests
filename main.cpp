@@ -20,3 +20,12 @@ datatada
 today I will be doing lots aof unnecesary work
 
 today also I will be doing lots aof unnecesary work
+
+branch1 work
+
+branch2 today
+
+
+squashed 1
+squashed 2
+squashed 3
